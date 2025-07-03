@@ -58,17 +58,77 @@ Check out some of my open-source work and professional projects here:
 
 ## 📌 Highlighted Repositories
 
-- 🔬 [Haemat Human Resource Module](https://github.com/ajayvishwakarma457/Haemat-Human-Resource-Module)  
-  Enterprise HR system with modular architecture using React, Node.js & MongoDB
+## 📌 Highlighted Repositories
 
-- 👥 [Haemat User Module](https://github.com/ajayvishwakarma457/Haemat-User-Module)  
-  User-facing portal built with ReactJS, PrimeReact & Sass for smooth UX
+### 🧭 [Spak Portal](https://github.com/ajayvishwakarma457/spak-portal)  
+A full-featured internal portal to manage users, tickets, and admin workflows.  
+**Tech Stack:** ReactJS, Node.js, MongoDB, Bootstrap
 
-- 🧭 [Spak Portal](https://github.com/ajayvishwakarma457/spak-portal)  
-  Full-featured internal portal for managing clients, tickets, and users
+### 📦 [BullMQ Node.js](https://github.com/ajayvishwakarma457/bullmq-nodejs)  
+Advanced queue management with Redis and BullMQ, supporting jobs, workers, and schedulers.  
+**Tech Stack:** Node.js, Redis, BullMQ
 
-- 📊 [BullMQ Node.js Queue](https://github.com/ajayvishwakarma457/bullmq-nodejs)  
-  Redis-backed job processing system with workers, schedulers & queue managers
+### 📊 [Haemat Human Resource Module](https://github.com/ajayvishwakarma457/Haemat-Human-Resource-Module)  
+Enterprise HR platform featuring employee, attendance, and payroll management.  
+**Tech Stack:** ReactJS, Node.js, MongoDB, Sass
+
+### 👥 [Haemat User Module](https://github.com/ajayvishwakarma457/Haemat-User-Module)  
+User interface for employee self-service, notifications, and requests.  
+**Tech Stack:** ReactJS, PrimeReact, Sass
+
+### 📈 [AWS Kubernetes](https://github.com/ajayvishwakarma457/aws-kubernetes)  
+Kubernetes deployment automation and configuration on AWS infrastructure.  
+**Tech Stack:** Kubernetes, AWS CLI, Shell Script, Terraform
+
+### 🐳 [AWS Docker](https://github.com/ajayvishwakarma457/aws-docker)  
+Docker container setup and deployment pipelines on AWS EC2.  
+**Tech Stack:** Docker, AWS, Nginx
+
+### 🌐 [GraphQL API Starter](https://github.com/ajayvishwakarma457/graphql)  
+Starter project demonstrating GraphQL API architecture and resolver patterns.  
+**Tech Stack:** Node.js, GraphQL, Apollo
+
+### 🔌 [WebSockets & Socket.io](https://github.com/ajayvishwakarma457/websockets_and_socket.io)  
+Real-time communication demo using WebSockets and Socket.io.  
+**Tech Stack:** Node.js, Socket.io, Express
+
+### 🎯 [A-Star Algorithm](https://github.com/ajayvishwakarma457/A-Star)  
+Implementation of A* pathfinding algorithm with visual representation.  
+**Tech Stack:** JavaScript, HTML5 Canvas
+
+### 🧰 [Kafka with Node.js](https://github.com/ajayvishwakarma457/kafka-nodejs)  
+Apache Kafka producer-consumer example using Node.js.  
+**Tech Stack:** Kafka, Node.js
+
+### 🔐 [Nginx AWS Reverse Proxy](https://github.com/ajayvishwakarma457/Nginx-Aws)  
+Configuring Nginx reverse proxy for secure multi-instance routing on AWS.  
+**Tech Stack:** Nginx, EC2, SSL, Shell Script
+
+### 📱 [Mobile Review API](https://github.com/ajayvishwakarma457/mobile-review-api)  
+Backend for handling user-generated reviews on mobile platforms.  
+**Tech Stack:** Node.js, Express, MongoDB
+
+### 🧮 [Bsv Calculator](https://github.com/ajayvishwakarma457/Bsv-Calculator)  
+Bitcoin SV calculator for real-time currency conversions and fees.  
+**Tech Stack:** JavaScript, Node.js
+
+### 🛠 [Ajenda Node.js App](https://github.com/ajayvishwakarma457/Ajenda-Nodejs)  
+A robust task scheduler and agenda manager using Express and MongoDB.  
+**Tech Stack:** Node.js, MongoDB, Cron
+
+### ☁️ [AWS Cloud Toolkit](https://github.com/ajayvishwakarma457/AWS)  
+Scripts and templates for managing EC2, S3, IAM, and deployments.  
+**Tech Stack:** AWS CLI, Boto3, Terraform
+
+### 🔍 [Complete Node.js Application](https://github.com/ajayvishwakarma457/Complete-Nodejs-Application)  
+End-to-end Node.js app template with MVC structure and REST APIs.  
+**Tech Stack:** Node.js, Express, MongoDB
+
+### 📡 [Monitoring & Uptime Tools](https://github.com/ajayvishwakarma457/Monitoring)  
+Simple uptime, health-check, and alerting tools for services.  
+**Tech Stack:** Node.js, Shell Script, Prometheus
+
+
   
 ---
 
