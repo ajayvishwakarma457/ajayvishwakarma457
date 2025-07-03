@@ -51,8 +51,27 @@ Check out some of my open-source work and professional projects here:
 
 ## GitHub Stats and Activity Badges
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayvishwakarma457&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvishwakarma457&layout=compact&theme=radical)
+## 📊 GitHub Stats and Activity Badges
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayvishwakarma457&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvishwakarma457&layout=compact&theme=radical)
+
+### 💡 Manually Curated Stats
+| Metric                   | Value     |
+|--------------------------|-----------|
+| ⭐ Total Stars Earned     | 24        |
+| ⏱️ Total Commits (2025)  | 191       |
+| 🔁 Total PRs             | 0         |
+| 🐛 Total Issues          | 0         |
+| 📈 Contributions (Last Yr) | 0         |
+
+### 📌 Most Used Languages (Manual Update)
+
+- **JavaScript:** 85%  
+- **TypeScript:** 8%  
+- **HTML/CSS/SASS:** 5%  
+- **Others:** 2%  
+
 
 ---
 
@@ -131,8 +150,6 @@ Simple uptime, health-check, and alerting tools for services.
 
   
 ---
-
-## 💻 Tools & Technologies
 
 ## 💻 Tools & Technologies
 
