@@ -54,6 +54,23 @@ Check out some of my open-source work and professional projects here:
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayvishwakarma457&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvishwakarma457&layout=compact&theme=radical)
 
+---
+
+## 📌 Highlighted Repositories
+
+- 🔬 [Haemat Human Resource Module](https://github.com/ajayvishwakarma457/Haemat-Human-Resource-Module)  
+  Enterprise HR system with modular architecture using React, Node.js & MongoDB
+
+- 👥 [Haemat User Module](https://github.com/ajayvishwakarma457/Haemat-User-Module)  
+  User-facing portal built with ReactJS, PrimeReact & Sass for smooth UX
+
+- 🧭 [Spak Portal](https://github.com/ajayvishwakarma457/spak-portal)  
+  Full-featured internal portal for managing clients, tickets, and users
+
+- 📊 [BullMQ Node.js Queue](https://github.com/ajayvishwakarma457/bullmq-nodejs)  
+  Redis-backed job processing system with workers, schedulers & queue managers
+  
+---
 
 ## 📬 Let's Connect
 
